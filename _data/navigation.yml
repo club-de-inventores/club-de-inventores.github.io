@@ -1,0 +1,26 @@
+# Site navigation links
+
+- title: "inicio"
+  url: /
+  excerpt: "Donde todo comienza... en un pensamiento"
+  image:
+
+- title: Ideas
+  url: /ideas/
+  excerpt: "Vuestras y nuestras ideas y proyectos"
+  image:
+
+- title: "Inventos"
+  url: "/inventos"
+  excerpt: "Algunos inventos interesantes"
+  image:
+
+- title: "Blog"
+  url: "/blog/"
+  excerpt: "Noticias relacionadas con inventores e inventos"
+  image:
+
+- title: "Nosotros"
+  url: "/quienes-somos/"
+  excerpt: "Sobre la asociacion y sus miembros"
+  image:

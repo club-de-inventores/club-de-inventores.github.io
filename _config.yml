@@ -1,0 +1,36 @@
+# Site wide configuration
+
+title: Club de inventores de Mallorca
+description: Asociación de inventores de Mallorca. Tu hogar para hacer de tu idea un invento.
+logo: logo.png # 120x120 px default image used for Twitter summary card
+teaser: Got-an-idea.png # 400x250 px default teaser image used in image archive grid
+background: apple-touch-icon-precomposed.png
+locale:
+url:
+
+# Jekyll configuration
+
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
+
+
+# Site owner
+owner:
+  name:
+  email:
+  twitter:
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
