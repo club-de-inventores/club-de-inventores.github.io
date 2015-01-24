@@ -1,3 +1,13 @@
+# Club de inventores de Mallorca
+
+Hola amigos,
+bienvenidos a este entorno y a esta nueva experiencia.
+Quien desea participar.. que me lo diga.
+
+Salu2,
+  Daniel
+
+
 Website in spanish from the club de inventores de Mallorca build with the template
 
 # Skinny Bones Jekyll Starter
