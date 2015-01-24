@@ -14,3 +14,7 @@ date: 2015-01-22T18:15:04+01:00
 ---
 
 El 3 de Julio del 2014 nos reunimos varios amigos con la intención de crear un club de inventores en Mallorca.
+
+Todo se pone en marcha con una idea
+
+![smiley tiene una idea]({{ site.baseurl }}/images/Got-an-idea.png "Smiley con idea")
